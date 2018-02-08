@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidServer</string>
+    <string name="test1">start test1</string>
+    <string name="test1_btn1">start server</string>
+    <string name="test2_btn2">start client</string>
 </resources>
